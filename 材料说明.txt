@@ -1,0 +1,39 @@
+CODE
+-----
+    -core---__init.py
+    -       - LinearProblem.py
+    -       自定义的用于实现本问题线性规划问题的python软件包  
+    -
+    -
+    -csvdata---sample_results_*.csv
+    -           构造的用于训练模型的数据集
+    -
+    -
+    -
+    -distributed_storage---Machine_*.pkl
+    -                      存储第三问所用的矩阵可能性的最原始数据集
+    -
+    -
+    -
+    -model---model_gbtree.pkl
+    -       -model_judgetree.pkl
+    -       -model_Linear.pkl
+    -       实现的决策树、梯度提升树、线性回归模型
+    -
+    -
+    -材料说明.txt    本文档，说明提交材料的文件夹结构
+    -
+    -
+    -环境配置文档.md  说明程序运行环境的markdown文件
+    -
+    -
+    -
+    -A_*.ipynb        共有三个jupyter notebook文件，用于分别解答三个问题
+    -
+    -
+    -模型部署.bat      用于从github上拉取本队上传的模型和数据集的批处理文件，需要保证网络畅通
+    -
+    -
+    -readme.md         对本问题的简单说明与简单的技术分析文档       
+            
+            
